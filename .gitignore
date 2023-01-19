@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+.vscode
+ledger.csv
+presentation.py
+video_demo_app.mp4
