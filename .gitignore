@@ -1,6 +1,6 @@
 __pycache__
 .pytest_cache
 .vscode
-ledger.csv
 presentation.py
+ledger.csv
 video_demo_app.mp4
